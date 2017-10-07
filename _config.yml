@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 title: Downy
 description: Downy
 google_analytics: 
@@ -6,3 +7,6 @@ theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
+=======
+theme: jekyll-theme-cayman
+>>>>>>> master

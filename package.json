@@ -1,0 +1,38 @@
+{
+  "name": "upstatejs",
+  "version": "0.2.0",
+  "description": "Gives status of popular services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "status",
+    "services",
+    "facebook",
+    "github",
+    "heroku",
+    "aws",
+    "down",
+    "up",
+    "uptime",
+    "downtime"
+  ],
+  "author": "punit1108 <punitkpal@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "proxyquire": "^1.8.0",
+    "request": "^2.72.0",
+    "sinon": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punit1108/upstatejs.git"
+  },
+  "bugs": {
+    "web": "https://github.com/punit1108/upstatejs/issues"
+  }
+}
