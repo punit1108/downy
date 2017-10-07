@@ -1,1 +1,12 @@
+<<<<<<< HEAD
+title: Downy
+description: Downy
+google_analytics: 
+show_downloads: true
 theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
+=======
+theme: jekyll-theme-cayman
+>>>>>>> master
